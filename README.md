@@ -1,5 +1,5 @@
 
-<h2 align="center">:pray:Namaste, I am Gautam Kumar</h2>
+<h2 align="center">:pray:Namaste, I am Vicky Kumar</h2>
 <p align="center">B.Tech ECE @ <strong>Bhagwan Parshuram Institute Of Technology</strong></p>
 <p align="center">MERN Stack Developer</p>
 <hr>
